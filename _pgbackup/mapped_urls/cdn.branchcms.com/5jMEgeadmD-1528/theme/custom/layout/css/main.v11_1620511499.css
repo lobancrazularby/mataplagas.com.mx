@@ -5228,9 +5228,9 @@ span.form-field {
     }
 
     #homepage-banner img {
-        right: -27px;
-        max-width: auto;
-        top: align-content;
+        right: -32px;
+        max-width: inherit;
+        top: -4px;
     }
 
     .homepage-banner-content {

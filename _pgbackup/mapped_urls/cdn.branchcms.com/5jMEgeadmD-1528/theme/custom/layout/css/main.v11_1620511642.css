@@ -5230,7 +5230,7 @@ span.form-field {
     #homepage-banner img {
         right: -27px;
         max-width: auto;
-        top: align-content;
+        top: -3px;
     }
 
     .homepage-banner-content {
