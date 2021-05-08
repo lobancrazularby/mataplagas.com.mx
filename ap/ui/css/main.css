@@ -8539,6 +8539,20 @@ div.ap-vtabs div.ap-htabs .ui-tabs-nav li a {
 .ui-widget-header .ui-state-default {
     font-weight: 400;
 }
+
+
+.header-facebook
+
+{
+    text-align: right;
+    float: right;
+    margin: 0 20px 0 0;
+    line-height: 100%;
+    padding: 7px 0 7px 32px;
+}
+
+
+}
 div.ui-button,
 label.ui-button,
 span.ui-button {
