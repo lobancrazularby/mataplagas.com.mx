@@ -8547,6 +8547,9 @@ div.ap-vtabs div.ap-htabs .ui-tabs-nav li a {
     text-align: right;
     float: right;
     margin: 0 20px 0 0;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
     line-height: 100%;
     padding: 7px 0 7px 32px;
 }
