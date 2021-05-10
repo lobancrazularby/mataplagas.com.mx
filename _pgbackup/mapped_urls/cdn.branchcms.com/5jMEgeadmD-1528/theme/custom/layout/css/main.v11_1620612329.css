@@ -1824,7 +1824,7 @@ a.icon-text-item:hover {
     min-width: 100%;
     position: absolute;
     top: 0;
-    right: 0;
+    right: -316px;
     z-index: 1;
 }
 
@@ -5228,7 +5228,7 @@ span.form-field {
     }
 
     #homepage-banner img {
-        right: 0px;
+        right: -27px;
         max-width: auto;
         top: align-content;
     }
