@@ -5236,7 +5236,7 @@ span.form-field {
     #homepage-banner img {
         right: 0px;
         max-width: auto;
-        top: auto;
+        top: align-content;
     }
 
     .homepage-banner-content {
