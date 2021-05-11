@@ -33,6 +33,14 @@
       "oAP" : "\/build\/_pgbackup\/index_1620703812.html",
       "oF" : 0
     },
+    "\/_pgbackup\/index_1620706752.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/_pgbackup\/index_1620706752.html",
+      "oF" : 0
+    },
     "\/_pgbackup\/pinegrow_1620703758.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -53,6 +61,14 @@
       "ft" : 524288,
       "oA" : 1,
       "oAP" : "\/build\/_pgbackup\/pinegrow_1620703812-min.json",
+      "oF" : 0,
+      "oO" : 1,
+      "oS" : 1
+    },
+    "\/_pgbackup\/pinegrow_1620706752.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/build\/_pgbackup\/pinegrow_1620706752-min.json",
       "oF" : 0,
       "oO" : 1,
       "oS" : 1
@@ -2515,6 +2531,58 @@
       "oAP" : "\/build\/control\/login.html",
       "oF" : 0
     },
+    "\/familia-feliz.jpg" : {
+      "ft" : 16384,
+      "iS" : 92897,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/familia-feliz.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/fauna-nociva-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 21692,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/fauna-nociva-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/fauna-nociva.jpg" : {
+      "ft" : 16384,
+      "iS" : 22658,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/fauna-nociva.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/hormiga.jpg" : {
+      "ft" : 16384,
+      "iS" : 59242,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/hormiga.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/imágenes" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2562,6 +2630,32 @@
       "oA" : 0,
       "oAP" : "\/build\/page\/index\/preview\/k\/28b9f8aa9f07db88404721af4a5b6c11.html",
       "oF" : 0
+    },
+    "\/perros-y-gatos.jpg" : {
+      "ft" : 16384,
+      "iS" : 369786,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/perros-y-gatos.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/pets-768x768.png" : {
+      "ft" : 32768,
+      "iS" : 96982,
+      "oA" : 0,
+      "oAP" : "\/build\/pets-768x768.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/pinegrow.json" : {
       "ft" : 524288,
