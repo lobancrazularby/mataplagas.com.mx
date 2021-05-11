@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    margin: 103px 0 0 0;
+    margin: 20px 0 0 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
     color: #3f3f3f;
@@ -2152,13 +2152,6 @@ span.form-field {
 }
 
 /*--HOMEPAGE TABBED CONTENT--*/
-.homepage-tabbed-content {
-    display: block;
-    position: relative;
-    background: #f4f4f4;
-    padding: 30px 0 65px 0;
-    margin-top: 60px;
-}
 
 /*--RESIDENTIAL PRICE CHARTS--*/
 #price-chart-wrapper {
@@ -3061,11 +3054,7 @@ span.form-field {
 
     .hover-tile-bg-image img {
         right: 30%;
-    }/*--HOMEPAGE TABBED CONTENT--*/
-
-    .homepage-tabbed-content {
-        padding: 60px 0 65px 0;
-    }/*--RESIDENTIAL PRICE CHARTS--*/
+    }/*--HOMEPAGE TABBED CONTENT--*//*--RESIDENTIAL PRICE CHARTS--*/
 
     #price-chart-wrapper {
         margin-top: 65px;
@@ -3246,11 +3235,7 @@ span.form-field {
     .blog-home-post-abstract {
         -webkit-flex-basis: 31%;
         flex-basis: 31%;
-    }/*--HOMEPAGE TABBED CONTENT--*/
-
-    .homepage-tabbed-content {
-        padding: 70px 0 90px 0;
-    }/*--FAQS--*/
+    }/*--HOMEPAGE TABBED CONTENT--*//*--FAQS--*/
 
     .faq-item .answer img {
         max-width: 500px;

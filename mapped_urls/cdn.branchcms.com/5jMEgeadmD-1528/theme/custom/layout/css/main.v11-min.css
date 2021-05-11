@@ -2231,13 +2231,6 @@ span.form-field {
 }
 
 /* --HOMEPAGE TABBED CONTENT-- */
-.homepage-tabbed-content {
-    display: block;
-    position: relative;
-    background: #f4f4f4;
-    padding: 30px 0 65px 0;
-    margin-top: 60px;
-}
 
 /* --RESIDENTIAL PRICE CHARTS-- */
 #price-chart-wrapper {
@@ -2980,7 +2973,7 @@ span.form-field {
     #homepage-banner img {
         right: 0px;
         max-width: auto;
-        top: align-content;
+        top: auto;
     }
 
     .homepage-banner-content {
@@ -3220,9 +3213,6 @@ span.form-field {
     }
 
     /* --HOMEPAGE TABBED CONTENT-- */
-    .homepage-tabbed-content {
-        padding: 60px 0 65px 0;
-    }
 
     /* --RESIDENTIAL PRICE CHARTS-- */
     #price-chart-wrapper {
@@ -3428,9 +3418,6 @@ span.form-field {
     }
 
     /* --HOMEPAGE TABBED CONTENT-- */
-    .homepage-tabbed-content {
-        padding: 70px 0 90px 0;
-    }
 
     /* --FAQS-- */
     .faq-item .answer img {
