@@ -49,8 +49,8 @@ body.sticky {
 }
 
 img {
-    margin: 0;
-    padding: 0;
+    margin: -9px -4px -4px;
+    padding: 0px 5px 2px 0px;
     border: 0;
     height: auto;
     max-width: auto;
@@ -297,7 +297,7 @@ p {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     color: #3f3f3f;
-    margin: 20px 0;
+    margin: 0px 0 5px;
     line-height: 135%;
     font-weight: 400;
 }
@@ -579,7 +579,7 @@ span.header-social-icons {
 
 #footer-wrapper {
     position: relative;
-    padding: 0 0 65px 0;
+    padding: 0 0 25px 0;
 }
 
 #footer-cta {
@@ -592,9 +592,13 @@ span.header-social-icons {
 }
 
 .footer-phone a {
-    color: #00c16e;
+    color: #1a382b;
     font-size: 24px;
     font-family: 'Open Sans', sans-serif;
+    margin-top: 7px;
+    padding-top: 0px;
+    top: -12px;
+    bottom: 0px;
 }
 
 .textSpacer {
@@ -606,7 +610,8 @@ span.header-social-icons {
     margin: 0 0 25px 0;
     padding: 30px 0;
     text-align: center;
-    border-bottom: 1px solid #cfcfcf;
+    background-color: #e6e1e1;
+    border-bottom: 1px solid #e6e1e1;
 }
 
 #footer-address {
@@ -621,7 +626,8 @@ span.header-social-icons {
 #social-icons-wrapper {
     display: block;
     position: relative;
-    margin-top: 15px;
+    margin-top: 13px;
+    padding-top: 6px;
 }
 
 #social-icons-wrapper a {
@@ -1100,7 +1106,7 @@ body.sticky #sticky-nav-button {
 
 .container {
     position: relative;
-    max-width: 940px;
+    max-width: 100%;
     padding: 0 20px;
     margin: 0 auto;
 }
