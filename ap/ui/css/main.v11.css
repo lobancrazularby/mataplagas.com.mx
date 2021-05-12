@@ -5798,7 +5798,7 @@ span.form-field {
     }
 
     #step3.container {
-        max-width: 940px;
+        max-width: 100%;
     }
 
     /* --FAQS-- */
