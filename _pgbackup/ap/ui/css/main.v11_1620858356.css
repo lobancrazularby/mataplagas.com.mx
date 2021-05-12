@@ -117,9 +117,6 @@ p {
     -o-transition: all .3s;
     -ms-transition: all .3s;
     transition: all .3s;
-    margin-top: 22px;
-    padding-top: 6px;
-    padding-bottom: 1px;
 }
 
 .clearfix:after {
@@ -300,8 +297,8 @@ p {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     color: #3f3f3f;
-    margin: 6px 0;
-    line-height: 136%;
+    margin: 20px 0;
+    line-height: 135%;
     font-weight: 400;
 }
 
@@ -716,7 +713,7 @@ footer .button.search-button:hover {
     font-weight: 400;
     color: #818181;
     font-size: 13px;
-    padding: 0 16px;
+    padding: 0 20px;
 }
 
 #copyright-text a {
