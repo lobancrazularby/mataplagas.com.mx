@@ -251,7 +251,7 @@ h6 {
 .content h2,
 .content h3,
 .content h4 {
-    line-height: 160%;
+    line-height: 120%;
 }
 
 h1 {
@@ -307,7 +307,7 @@ p {
 
 section p {
     line-height: 175%;
-    margin: -22px 0 20px;
+    margin: 20px 0;
 }
 
 a {
@@ -1104,7 +1104,7 @@ body.sticky #sticky-nav-button {
 .container {
     position: relative;
     max-width: 100%;
-    padding: 0 10px;
+    padding: 0 20px;
     margin: 0 auto;
 }
 
@@ -1284,7 +1284,7 @@ body.sticky #sticky-nav-button {
 }
 
 .noMargin {
-    margin: 10 !important;
+    margin: 0 !important;
 }
 
 .section-divider {
@@ -1420,11 +1420,8 @@ a.darkGray:hover {
 }
 
 .largeCenterImage {
-    display: inline-block;
-    text-align: right;
-    float: right;
-    max-width: 564px;
-    margin-top: -22px;
+    display: block;
+    margin: 35px auto;
 }
 
 .custom-bg-content {
