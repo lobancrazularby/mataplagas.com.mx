@@ -307,7 +307,7 @@ p {
 
 section p {
     line-height: 175%;
-    margin: -15px 0 20px;
+    margin: -22px 0 20px;
 }
 
 a {
@@ -1094,7 +1094,7 @@ body.sticky #sticky-nav-button {
     position: relative;
     padding: 0;
     margin: 0 auto;
-    min-height: 60px;
+    min-height: 450px;
 }
 
 .content.homepage-content {
@@ -4132,11 +4132,10 @@ span.form-field {
 }
 
 .faq-item .faq-plus-sign.expanded + .answer {
-    max-height: 314px;
+    max-height: none;
     visibility: visible;
     opacity: 1;
     transition: all .3s;
-    top: 13px;
 }
 
 /* --RESPONSIVE STYLES-- */
@@ -4605,7 +4604,7 @@ span.form-field {
     }
 
     h3 {
-        font-size: 28px;
+        font-size: 32px;
     }
 
     h4 {

@@ -1094,7 +1094,7 @@ body.sticky #sticky-nav-button {
     position: relative;
     padding: 0;
     margin: 0 auto;
-    min-height: 60px;
+    min-height: 450px;
 }
 
 .content.homepage-content {
@@ -4605,7 +4605,7 @@ span.form-field {
     }
 
     h3 {
-        font-size: 28px;
+        font-size: 32px;
     }
 
     h4 {
